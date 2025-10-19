@@ -54,9 +54,8 @@ The use of link and how to style it.
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Maisha](https://www.frontendmentor.io/profile/Maisha-dev)
+- Twitter - [@yourusername](https://https://x.com/hamza_aisha_)
 
 ## Acknowledgments
 
